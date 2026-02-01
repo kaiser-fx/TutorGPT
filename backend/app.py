@@ -15,7 +15,7 @@ app.add_middleware(
 )
 
 # Setup API key
-os.environ["AI_API_KEY"] = "AIzaSyCI9-4qYTA_8BkLwkwfUq2pH9K_W9ED9aQ"
+os.environ["AI_API_KEY"] = "[Your API Key Here]"  #Enter your Google Gemini API key here
 genai.configure(api_key=os.environ["AI_API_KEY"])
 
 generation_config = {
