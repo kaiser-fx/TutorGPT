@@ -45,7 +45,7 @@ WebAppProject/
 1. **Clone the repository**
    ```bash
    git clone <repository-url>
-   cd WebAppProject
+   cd TutorGPT
    ```
 
 2. **Install dependencies**
