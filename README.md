@@ -1,6 +1,6 @@
 # TutorGPT - AI-Powered Coding Tutor
 
-An interactive web application that leverages Google's Gemini AI to provide personalized coding education. TutorGPT acts as a personal coding tutor with the personality of Harvey Specter from SUITS, guiding students through programming languages step-by-step.
+An interactive web application that leverages Google's Gemini AI to provide personalized coding education. TutorGPT acts as a personal coding tutor with the personality of Harvey Specter from SUITS(or any character of your choice), guiding students through programming languages step-by-step.
 
 ## Features
 
